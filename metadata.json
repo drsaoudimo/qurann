@@ -1,0 +1,6 @@
+{
+  "name": "القرآن الكريم - تلاوة آية بآية لجميع القراء",
+  "description": "تطبيق القرآن الكريم كاملاً مع تلاوة صوتية آية بآية لجميع مشاهير القراء من أرشيف وإيفري آية، مع التفسير والترجمة وميزات التحفيظ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
